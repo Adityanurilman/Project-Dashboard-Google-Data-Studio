@@ -1,7 +1,9 @@
 # Project-Dashboard-Google-Data-Studio
 Hello everyone,
 
-<p> https://github.com/Adityanurilman/Project-Dashboard-Google-Data-Studio/blob/main/Sales%20Dashboard.jpg </p>
+<p align="center">
+  <a <img src="Sales Dashboard.jpg"></a>
+</p>
 
 I have created a repository on Github to showcase the creation of a "Sales Dashboard" using Google Data Studio. This dashboard is a great tool to help manage and visualize sales data for your business.
 
