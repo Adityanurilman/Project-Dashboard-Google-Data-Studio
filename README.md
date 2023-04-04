@@ -2,7 +2,7 @@
 Hello everyone,
 
 <p align="center">
-  <a <img src="Sales Dashboard.jpg"></a>
+  <img src="Sales Dashboard.jpg">
 </p>
 
 I have created a repository on Github to showcase the creation of a "Sales Dashboard" using Google Data Studio. This dashboard is a great tool to help manage and visualize sales data for your business.
